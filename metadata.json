@@ -1,0 +1,5 @@
+{
+  "name": "MagicEye AI Generator",
+  "description": "Generate custom autostereograms (Magic Eye images) from text using algorithmic depth mapping and Gemini-generated textures.",
+  "requestFramePermissions": []
+}
